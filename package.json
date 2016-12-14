@@ -1,0 +1,16 @@
+{
+  "name": "haversine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "bugs": {
+    "url": "https://github.com/tmn/haversineissues"
+  },
+  "homepage": "https://github.com/tmn/haversine",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["haversine"],
+  "author": "Tri Nguyen <mail@trimn.net> (https://tmn.io/)",
+  "license": "MIT"
+}
