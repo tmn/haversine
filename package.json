@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "bugs": {
-    "url": "https://github.com/tmn/haversineissues"
+    "url": "https://github.com/tmn/haversine/issues"
   },
   "homepage": "https://github.com/tmn/haversine",
   "scripts": {
